@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T16:02:01.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-NpsEICusCg557rotcuK" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T15:54:04.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="g2X8o7iKi4BdYCtfXy4Y" version="20.2.2" type="github">
   <diagram id="BY1_EAHip4alKtQ29MDy" name="Page-1">
-    <mxGraphModel dx="1141" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-a4xLClGDlBkx1IwWFNk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=13;" edge="1" parent="1" source="-a4xLClGDlBkx1IwWFNk-1" target="-a4xLClGDlBkx1IwWFNk-3">
+        <mxCell id="-a4xLClGDlBkx1IwWFNk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=13;" parent="1" source="-a4xLClGDlBkx1IwWFNk-1" target="-a4xLClGDlBkx1IwWFNk-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a4xLClGDlBkx1IwWFNk-1" value="QuorumPeerMain" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-a4xLClGDlBkx1IwWFNk-1" value="QuorumPeerMain" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="70" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-a4xLClGDlBkx1IwWFNk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=13;" edge="1" parent="1" source="-a4xLClGDlBkx1IwWFNk-3" target="-a4xLClGDlBkx1IwWFNk-5">
+        <mxCell id="-a4xLClGDlBkx1IwWFNk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=13;" parent="1" source="-a4xLClGDlBkx1IwWFNk-3" target="-a4xLClGDlBkx1IwWFNk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a4xLClGDlBkx1IwWFNk-3" value="initializeAndRun(args)&lt;br&gt;1. parse config&lt;br&gt;2. purge DataDir&lt;br&gt;3. isDistributed() or standalone mode" style="rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1;align=left;html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-a4xLClGDlBkx1IwWFNk-3" value="initializeAndRun(args)&lt;br&gt;1. parse config&lt;br&gt;2. purge DataDir&lt;br&gt;3. isDistributed() or standalone mode" style="rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1;align=left;html=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-a4xLClGDlBkx1IwWFNk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=13;" edge="1" parent="1" source="-a4xLClGDlBkx1IwWFNk-5" target="-a4xLClGDlBkx1IwWFNk-7">
+        <mxCell id="-a4xLClGDlBkx1IwWFNk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=13;" parent="1" source="-a4xLClGDlBkx1IwWFNk-5" target="-a4xLClGDlBkx1IwWFNk-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a4xLClGDlBkx1IwWFNk-5" value="&lt;span&gt;runFromConfig(QuorumPeerConfig)&lt;br&gt;1. register log4j&lt;br&gt;2.&amp;nbsp;&lt;/span&gt;init&amp;nbsp;&lt;span&gt;metrics ProviderRegistry&lt;br&gt;3. init cnxnFactory&lt;br&gt;4.&amp;nbsp;&lt;/span&gt;init&amp;nbsp;&lt;span&gt;QuorumPeer&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1;align=left;html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-a4xLClGDlBkx1IwWFNk-5" value="&lt;span&gt;runFromConfig(QuorumPeerConfig)&lt;br&gt;1. register log4j&lt;br&gt;2.&amp;nbsp;&lt;/span&gt;init&amp;nbsp;&lt;span&gt;metrics ProviderRegistry&lt;br&gt;3. init cnxnFactory&lt;br&gt;4.&amp;nbsp;&lt;/span&gt;init&amp;nbsp;&lt;span&gt;QuorumPeer&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1;align=left;html=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="535" y="42.5" width="270" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="-a4xLClGDlBkx1IwWFNk-7" value="QuorumPeer extends Thread" style="rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1;align=left;html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-a4xLClGDlBkx1IwWFNk-7" value="QuorumPeer extends Thread" style="rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fontSize=13;fontStyle=1;align=left;html=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="870" y="65" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
